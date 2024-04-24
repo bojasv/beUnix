@@ -1,0 +1,4 @@
+LTS: Long Term Support
+FDD: Floppy Disk Drive 
+BIOS: Basic I/O System
+GRUB: GRand Unified Bootloader
